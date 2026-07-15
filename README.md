@@ -177,6 +177,3 @@ def test_reuso_frutas_conteudo(lista_frutas):
 ```
 
 ---
-
-## 📬 Entrega do Repositório
-Este repositório está estruturado e pronto para envio por e-mail para o professor. Recomenda-se compactar a pasta do projeto (desconsiderando o diretório `.venv` e `.pytest_cache`) ou fornecer o link do repositório remoto para avaliação.
